@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Daisy</h1>
-<h3 align="center">A passionate junior web developer from California</h3>
+<h3 align="center">A Computer Science Student From California</h3>
 
 - 🔭 I’m currently working on [GradFlow](https://github.com/KosOrKosm/graduation-flow)
 
